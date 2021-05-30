@@ -30,4 +30,4 @@ Create a snapshot of drive C:
 Please refer to `vssadmin /?` for other usages.
 
 `python vss10.py vssadmin` is slower than just `vssadmin`. For a batch operation 
-run just `vssadmin` except for the first time.
+run just `vssadmin` at the directory containing `vss10.py` except for the first time.
